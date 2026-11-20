@@ -161,6 +161,7 @@ OMDb **всегда** отвечает HTTP-статусом 200, даже ес�
 npm install react-router-dom
 ```
 
+
 ### Файл: `src/main.jsx`
 
 Всё приложение нужно обернуть в `<BrowserRouter>` — это компонент, который
